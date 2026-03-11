@@ -1,0 +1,10 @@
+# Build directory
+/build/
+
+# Compiled files
+*.o
+*.out
+minesweeper
+
+# macOS specific
+.DS_Store
